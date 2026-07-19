@@ -3,3 +3,9 @@ Operators
 - Relational operators
 - Logical operators
 - Nullish coalescing operators
+
+based on numbers of oprands
+- unary operators
+  - increment-decrement optr
+- binary operators
+- ternary operators
